@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "82D6429B731CD20A9AC16F69D9ABEAA53BE2EFBB" : 0,
+    "0DF56A3D8B763AB2A0F446973B8C9EAC86C69B13" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "862ADD85-3710-49DE-AAD2-7C83FE0208AC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "82D6429B731CD20A9AC16F69D9ABEAA53BE2EFBB" : "Test%20Become%20a%20Millionaire\/",
+    "0DF56A3D8B763AB2A0F446973B8C9EAC86C69B13" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ZvOlCuOk2009\/Become-a-Millionaire.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0DF56A3D8B763AB2A0F446973B8C9EAC86C69B13"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ZvOlCuOk2009\/Test-Become-a-Millionaire.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "82D6429B731CD20A9AC16F69D9ABEAA53BE2EFBB"
+    }
+  ]
+}
